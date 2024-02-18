@@ -1,6 +1,6 @@
-<img src="https://github.com/block-byte/.github/assets/73234992/5ff385ac-a87c-4fee-a091-bcee0362b78d" width="auto" height="150" />
+<img src="https://github.com/block-byte/.github/assets/73234992/5ff385ac-a87c-4fee-a091-bcee0362b78d" width="auto" height="100" />
 
-Welcome to Blockbyte, your trusted partner in crafting innovative digital solutions.
+Welcome to Blockbyte, where innovation meets excellence. We're here to transform your digital vision into reality with our cutting-edge solutions and unparalleled expertise. Let's shape the future together!
 
 ## About Us
 
