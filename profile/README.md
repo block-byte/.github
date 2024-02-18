@@ -8,7 +8,7 @@ Our team of experts is dedicated to leveraging the latest advancements in techno
 
 ## What We Do
 
-- ### Web3 Development 🧱
+- ### Web3 Development 🔗
   Step into the future of the web with our Web3 development services. Harness blockchain technology to redefine online interactions.
 
 - ### Software Development 💻
