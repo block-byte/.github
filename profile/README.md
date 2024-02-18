@@ -1,4 +1,4 @@
-# ![Blockbyte Logo PNG-04](https://github.com/block-byte/.github/assets/73234992/5ff385ac-a87c-4fee-a091-bcee0362b78d)
+<img src="https://github.com/block-byte/.github/assets/73234992/5ff385ac-a87c-4fee-a091-bcee0362b78d" width="auto" height="150" />
 
 Welcome to Blockbyte, your trusted partner in crafting innovative digital solutions.
 
