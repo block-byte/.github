@@ -38,6 +38,6 @@ Our team of experts is dedicated to leveraging the latest advancements in techno
 
 Ready to take your digital presence to the next level? Contact us today to discuss your project requirements and learn how we can help you achieve your goals.
 
-- Email: stefan@blockbyte.com
+- Email: contact@blockbyte.com
 - Website: www.blockbyte.dev
 - Schedule a call: https://calendly.com/sstefdev/blockbyte-intro-call
